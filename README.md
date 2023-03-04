@@ -1,4 +1,9 @@
-# Nguye482A4
+Angular project for mobile devives (Samsung galaxy S5)
+
+![Screenshot 2023-03-03 at 10 49 55 PM](https://user-images.githubusercontent.com/97963939/222874578-b06108dc-df64-48b2-bdcc-db5c12b73d22.png)
+
+![Screenshot 2023-03-03 at 10 50 11 PM](https://user-images.githubusercontent.com/97963939/222874579-b1113d48-79e5-4ce7-b911-e48eaddd4d85.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
 
