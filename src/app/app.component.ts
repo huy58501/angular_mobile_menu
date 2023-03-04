@@ -14,8 +14,8 @@ import dinnerData from '../assets/data/dinner.json';
 export class AppComponent {
   title = 'nguye482A4';
 
-  bio: Nguye482={sid: 99165113, sname: "Hoang Chuong Nguyen", 
-  scampus: "Trafagar", slogin: "nguye482", stitle:"Assignment 4"}
+  bio: Nguye482={sid: 1, sname: "", 
+  scampus: "", slogin: "", stitle:"Json data sync"}
   breakfast: BreakfastMenu[] = breakfastData.BreakfastMenu;
   lunch: LunchMenu[] = lunchData.LunchMenu;
   dinner: DinnerMenu[] = dinnerData.DinnerMenu;
