@@ -1,4 +1,4 @@
-Angular project for mobile devives (Samsung galaxy S5)
+Angular project for mobile devices (Samsung galaxy S5)
 
 ![Screenshot 2023-03-03 at 10 49 55 PM](https://user-images.githubusercontent.com/97963939/222874578-b06108dc-df64-48b2-bdcc-db5c12b73d22.png)
 
