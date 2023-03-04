@@ -26,7 +26,7 @@ body,html {
 hr {width: auto; border-width: thick;}
 header{
     text-align: center;
-    padding: 5px;
+    padding: 16px;
 }
 footer{
     background-color: #aae2eb;
@@ -37,8 +37,8 @@ footer{
 .mat-tab-body-wrapper{
   height: 100%;
   padding: 10px;
-  padding-bottom: 203px;
-  padding-top: 90px;
+  padding-bottom: 200px;
+  padding-top: 100px;
 }
 
 @media screen and (orientation: landscape) {

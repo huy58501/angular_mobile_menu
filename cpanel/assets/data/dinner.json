@@ -1,9 +1,0 @@
-{
-    "DinnerMenu": [
-        {"name": "CARROT GNOCCHI", "price": 16.75, "cal": 650},
-        {"name": "STUFFED LAKE TROUT", "price": 24.75, "cal": 750},
-        {"name": "STEAKS", "price": 15.75, "cal": 1450},
-        {"name": "SEASONAL PASTA", "price": 13.75, "cal": 800},
-        {"name": "SALMON & BROCOLLI", "price": 18.75, "cal": 1350}
-    ]
-}

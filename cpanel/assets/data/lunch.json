@@ -1,9 +1,0 @@
-{
-    "LunchMenu": [
-        {"name": "BEEF SANDWICHES", "price": 6.75, "cal": 350},
-        {"name": "EGGS SANDWICHES", "price": 4.75, "cal": 250},
-        {"name": "CHICKEN WRAPS", "price": 5.75, "cal": 450},
-        {"name": "CHICKEN STRIPS", "price": 3.75, "cal": 300},
-        {"name": "HAM & SWISS", "price": 8.75, "cal": 350}
-    ]
-}

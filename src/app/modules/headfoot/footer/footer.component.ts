@@ -1,5 +1,5 @@
 import { Component, OnInit,Input } from '@angular/core';
-import { Nguye482 } from 'src/app/myClasses/nguye482';
+import { UserInfo } from 'src/app/myClasses/info';
 
 @Component({
   selector: 'app-footer',
@@ -8,7 +8,7 @@ import { Nguye482 } from 'src/app/myClasses/nguye482';
 })
 export class FooterComponent implements OnInit {
 
-  @Input() hinfo!: Nguye482;
+  @Input() hinfo!: UserInfo;
   constructor() { }
 
   ngOnInit(): void {

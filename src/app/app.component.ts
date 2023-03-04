@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { Nguye482 } from './myClasses/nguye482';
+import { UserInfo } from './myClasses/info';
 import {DinnerMenu, BreakfastMenu, LunchMenu} from './cpInterface';
 import breakfastData from '../assets/data/breakfast.json';
 import lunchData from '../assets/data/lunch.json';
@@ -12,10 +12,10 @@ import dinnerData from '../assets/data/dinner.json';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'nguye482A4';
+  title = 'Menu';
 
-  bio: Nguye482={sid: 1, sname: "", 
-  scampus: "", slogin: "", stitle:"Json data sync"}
+  bio: UserInfo={sid: 1, sname: "info here", 
+  scampus: "", slogin: "", stitle:"info here "}
   breakfast: BreakfastMenu[] = breakfastData.BreakfastMenu;
   lunch: LunchMenu[] = lunchData.LunchMenu;
   dinner: DinnerMenu[] = dinnerData.DinnerMenu;

@@ -1,4 +1,4 @@
-export class Nguye482 
+export class UserInfo 
 {
     sid!: number;
     sname!: string;
