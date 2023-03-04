@@ -1,0 +1,9 @@
+{
+    "BreakfastMenu": [
+        {"name": "HOT BREAKFAST SANDWICH", "price": 6.75, "cal": 350},
+        {"name": "BAGEL B.E.L.T", "price": 4.75, "cal": 250},
+        {"name": "HAS BROWN", "price": 5.75, "cal": 450},
+        {"name": "EGGS", "price": 3.75, "cal": 300},
+        {"name": "GRILLED WRAPS", "price": 8.75, "cal": 350}
+    ]
+}

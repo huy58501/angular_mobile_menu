@@ -1,0 +1,23 @@
+<div id="content">
+    <h2 style="font-size: 20px;color: crimson;"><b>Today's Menu</b></h2>
+    <hr>
+    <br>
+    <table>
+        <tr><th>Food Name</th><th>Price</th><th>Calories</th></tr>
+        <tr *ngFor="let cls of breakfastList">
+            <td> {{cls.name}} </td>
+            <td> ${{cls.price}} </td>
+            <td> {{cls.cal}} </td>
+        </tr>
+        <tr *ngFor="let cls1 of lunchList">
+            <td> {{cls1.name}} </td>
+            <td> ${{cls1.price}} </td>
+            <td> {{cls1.cal}} </td>
+        </tr>
+        <tr *ngFor="let cls2 of dinnerList">
+            <td> {{cls2.name}} </td>
+            <td> ${{cls2.price}} </td>
+            <td> {{cls2.cal}} </td>
+        </tr>
+    </table>
+</div>
